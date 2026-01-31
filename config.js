@@ -59,7 +59,7 @@ const CONFIG = {
     colors: {
         backgroundStart: "#00b4d8",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "00b4d8",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#48cae4",     // Button color (should stand out against the background)
+        buttonBackground: "#dad7cd",     // Button color (should stand out against the background)
         buttonHover: "#48cae4",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "003049"             // Text color (make sure it's readable!)
     },
